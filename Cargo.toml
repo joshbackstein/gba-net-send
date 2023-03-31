@@ -1,0 +1,9 @@
+[package]
+name = "gba-net-send"
+version = "0.0.1"
+edition = "2021"
+license = "GPL-3.0-only"
+description = "A tool for sending homebrew GBA ROMs to gba-net-boot on your 3DS"
+repository = "https://github.com/joshbackstein/gba-net-send"
+
+[dependencies]
